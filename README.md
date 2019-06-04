@@ -10,3 +10,5 @@ Some functionalities:
   - After each guess, the program provides you a list of available letters (ie those you have not yet guessed)
   - By default, you get 8 guesses but this can be changed by altering the variable "NUM_GUESSES" near the top of the program.
   - By default, the program randomly selects a word from those provided in words.txt. However, if 2 individuals are playing the game, one of the individuals can use their own word by changing the secretWord value in the 2nd last line.
+  
+<img src="images/sampleOne.png>
