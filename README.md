@@ -14,3 +14,5 @@ Some functionalities:
 <img src="images/sampleOne.PNG">
 <img src="images/sampleTwo.PNG">
 <img src="images/sampleThree.PNG">
+
+*words.txt file is a list of approx 55,000 English words obtained from MIT 6.00.1x
