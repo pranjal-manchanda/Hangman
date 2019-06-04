@@ -6,6 +6,7 @@ import random
 import string
 
 WORDLIST_FILENAME = "words.txt"
+NUM_GUESSES = 8
 
 def loadWords():
     """
@@ -112,7 +113,7 @@ def hangman(secretWord):
     print("Welcome to the game Hangman!")
     print("I am thinking of a word that is " + str(len(secretWord)) + " letters long")
     
-    turns = 8
+    turns = NUM_GUESSES
     lettersGuessed = ""
     
     while turns > 0:
